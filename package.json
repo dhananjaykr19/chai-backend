@@ -1,0 +1,16 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "This is a backend series with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "chai",
+    "backend"
+  ],
+  "author": "Dhananjay",
+  "license": "ISC"
+}
